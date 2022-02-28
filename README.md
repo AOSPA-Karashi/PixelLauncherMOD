@@ -7,3 +7,5 @@
 -- Search Results Highlight Colour shows in material you colour. When you press enter while highlighting search results, that app/settings opens. Subtle Changes in Group Highlights & Search Box Highlight
 -- Developer Options in Launcher Settings with many launcher tweaks(Enable Developer Options of your current rom first to get that in launcher's settings, Go to About Phone Section & Tap Build Number 7-8 times to enable it)
 -- Smoothness better than original launcher. Added Tweaks which makes the launcher more smoother.
+
+Get Download Links, Instructions, Add-ons From Here https://t.me/modulesrepo/3046
